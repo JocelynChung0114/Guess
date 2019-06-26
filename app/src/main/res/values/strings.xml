@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Guess</string>
+    <string name="please_enter_a_number">Please enter a number(1~10)</string>
+    <string name="you_got_it">Yes, you got it</string>
+    <string name="bigger">Bigger</string>
+    <string name="smaller">Smaller</string>
+    <string name="alert_title">Message</string>
+    <string name="ok">OK</string>
+    <string name="replay_game">Replay game</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="cancel">Cancel</string>
+    <string name="excellent">Excellent! The number is ％d</string>
 </resources>
