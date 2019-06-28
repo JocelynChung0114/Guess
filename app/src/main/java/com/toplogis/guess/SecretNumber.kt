@@ -18,7 +18,7 @@ class SecretNumber {
 }
 
 fun main(){
-    val secretNumber = SecretNumber();
+    val secretNumber = SecretNumber()
     println(secretNumber.secret)
     println("${secretNumber.validate(5)}, count: ${secretNumber.count}")
 }
